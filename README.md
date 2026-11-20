@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0084-largest-rectangle-in-histogram](https://github.com/Khushi122006/LeetCode-Solutions/tree/master/0084-largest-rectangle-in-histogram) |
 | [0496-next-greater-element-i](https://github.com/Khushi122006/LeetCode-Solutions/tree/master/0496-next-greater-element-i) |
 | [0739-daily-temperatures](https://github.com/Khushi122006/LeetCode-Solutions/tree/master/0739-daily-temperatures) |
+| [2073-time-needed-to-buy-tickets](https://github.com/Khushi122006/LeetCode-Solutions/tree/master/2073-time-needed-to-buy-tickets) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -32,4 +33,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/Khushi122006/LeetCode-Solutions/tree/master/0084-largest-rectangle-in-histogram) |
+## Queue
+|  |
+| ------- |
+| [2073-time-needed-to-buy-tickets](https://github.com/Khushi122006/LeetCode-Solutions/tree/master/2073-time-needed-to-buy-tickets) |
+## Simulation
+|  |
+| ------- |
+| [2073-time-needed-to-buy-tickets](https://github.com/Khushi122006/LeetCode-Solutions/tree/master/2073-time-needed-to-buy-tickets) |
 <!---LeetCode Topics End-->
