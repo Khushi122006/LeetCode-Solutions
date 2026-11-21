@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0155-min-stack](https://github.com/Khushi122006/LeetCode-Solutions/tree/master/0155-min-stack) |
 | [0496-next-greater-element-i](https://github.com/Khushi122006/LeetCode-Solutions/tree/master/0496-next-greater-element-i) |
 | [0739-daily-temperatures](https://github.com/Khushi122006/LeetCode-Solutions/tree/master/0739-daily-temperatures) |
+| [2390-removing-stars-from-a-string](https://github.com/Khushi122006/LeetCode-Solutions/tree/master/2390-removing-stars-from-a-string) |
 ## Design
 |  |
 | ------- |
@@ -41,4 +42,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2073-time-needed-to-buy-tickets](https://github.com/Khushi122006/LeetCode-Solutions/tree/master/2073-time-needed-to-buy-tickets) |
+| [2390-removing-stars-from-a-string](https://github.com/Khushi122006/LeetCode-Solutions/tree/master/2390-removing-stars-from-a-string) |
+## String
+|  |
+| ------- |
+| [2390-removing-stars-from-a-string](https://github.com/Khushi122006/LeetCode-Solutions/tree/master/2390-removing-stars-from-a-string) |
 <!---LeetCode Topics End-->
